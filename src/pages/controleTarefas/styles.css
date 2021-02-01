@@ -1,0 +1,50 @@
+.menu {
+    padding: 5%;
+    text-align: center; 
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.menu input {
+    padding: 6px 3px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-left: 60px;
+}
+
+.menu ol li {
+    margin-left: 29%;
+}
+
+
+
+.menu button {
+    border-radius: 6px;
+    background-color:#686868; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.principal li button {
+    padding: 0px auto;
+    margin-left: 43%;
+    margin-right: 15%;
+}
+
+.totalpendentes {
+    margin-left: -15%;
+}
+
+.totalpendentes input {
+    padding: 6px 15px;
+    margin-left: 25;
+    box-sizing: border-box;
+    margin-left: 80px;
+}
